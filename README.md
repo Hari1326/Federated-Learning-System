@@ -58,35 +58,6 @@ Deploying FATE to multiple nodes to achieve scalability, reliability and managea
 - [RoadMap](./doc/images/roadmap.png)
 - [Paper & Conference](./doc/resources/README.md)
 
-### Develop Guide
-- [Dag Usage Guide](./doc/2.0/fate/dag.md)
-- [Component Develop Guide](./doc/develop_guide/component_guide.md)  
-
-
-## Related Repositories (Projects)
-- [KubeFATE](https://github.com/FederatedAI/KubeFATE): An operational tool for the FATE platform using cloud native technologies such as containers and Kubernetes.
-- [FATE-Flow](https://github.com/FederatedAI/FATE-Flow): A multi-party secure task scheduling platform for federated learning pipeline.
-- [FATE-Board](https://github.com/FederatedAI/FATE-Board): A suite of visualization tools to explore and understand federated models easily and effectively.
-- [FATE-Serving](https://github.com/FederatedAI/FATE-Serving): A high-performance and production-ready serving system for federated learning models.
-- [FATE-Cloud](https://github.com/FederatedAI/FATE-Cloud): An infrastructure for building and managing industrial-grade federated learning cloud services.
-- [EggRoll](https://github.com/WeBankFinTech/eggroll): A simple high-performance computing framework for (federated) machine learning.
-- [AnsibleFATE](https://github.com/FederatedAI/AnsibleFATE): A tool to optimize and automate the configuration and deployment operations via Ansible.
-- [FATE-Builder](https://github.com/FederatedAI/FATE-Builder): A tool to build package and docker image for FATE and KubeFATE.
-- [FATE-Client](https://github.com/FederatedAI/FATE-Client): A tool to enable fast federated modeling tasks for FATE.
-- [FATE-Test](https://github.com/FederatedAI/FATE-Test): An automated testing tool for FATE, including tests and benchmark comparisons.
-- [FATE-LLM](https://github.com/FederatedAI/FATE-LLM/blob/main/README.md) : A framework to support federated learning for large language models(LLMs).
-
-## Governance 
-
-[FATE-Community](https://github.com/FederatedAI/FATE-Community) contains all the documents about how the community members cooperate with each other. 
-
-- [GOVERNANCE.md](https://github.com/FederatedAI/FATE-Community/blob/master/GOVERNANCE.md) documents the governance model of the project. 
-- [Minutes](https://github.com/FederatedAI/FATE-Community/blob/master/meeting-minutes) of working meetings
-- [Development Process Guidelines](https://github.com/FederatedAI/FATE-Community/blob/master/FederatedAI_PROJECT_PROCESS_GUIDELINE.md) 
-- [Security Release Process](https://github.com/FederatedAI/FATE-Community/blob/master/SECURITY.md) 
-
-
-## Getting Involved
 
 ### Contributing
 FATE is an inclusive and open community. We welcome developers who are interested in making FATE better! Contributions of all kinds are welcome. Please refer to the general [contributing guideline](https://github.com/FederatedAI/FATE-Community/blob/master/CONTRIBUTING.md) of all FATE projects and the contributing guideline of each repository.
@@ -106,14 +77,6 @@ Maintainers: FedAI-maintainers @ groups.io
 
 Security Response Committee: FATE-security @ groups.io
 
-### Twitter
-
-Follow us on twitter [@FATEFedAI](https://twitter.com/FateFedAI)
-
-### FAQ
-https://github.com/FederatedAI/FATE/wiki
 
 
-## License
-[Apache License 2.0](LICENSE)
 
